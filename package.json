@@ -16,5 +16,9 @@
   },
   "devDependencies": {
     "vue-notifications": "^0.9.0"
+  },
+  "nuxt":{
+    "host":"120.79.238.176",
+    "port":"80"
   }
 }

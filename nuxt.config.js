@@ -14,9 +14,6 @@ module.exports = {
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ]
     },
-    env:{
-      baseUrl:'http://120.79.238.176:80'
-    },
     /*
     ** Customize the progress bar color
     */
