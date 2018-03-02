@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+.active-link{
+    color: red;
+}
+.test-enter-active, .test-leave-active{
+    transition: opacity .5s;
+}
+.test-enter, .test-leave-active{
+    opacity: 0;
+}
+[v-cloak] {
+    display: none;
+}
