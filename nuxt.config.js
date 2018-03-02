@@ -15,7 +15,7 @@ module.exports = {
       ]
     },
     env:{
-      baseUrl:'http://http://120.79.238.176:80'
+      baseUrl:'http://120.79.238.176:80'
     },
     /*
     ** Customize the progress bar color
